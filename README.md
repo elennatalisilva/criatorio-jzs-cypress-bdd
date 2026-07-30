@@ -31,7 +31,7 @@ Projeto de automação de testes end-to-end (E2E) desenvolvido em **Cypress** ut
 
 ## ⚙️ Como Executar o Projeto
 
-1. **Clone o repositório:**
+1. Clone o repositório:
    ```bash
-   git clone [https://github.com/elennatalisilva/automacao-criatorio-jzs.git](https://github.com/elennatalisilva/automacao-criatorio-jzs.git)
-   cd automacao-criatorio-jzs
+   git clone [https://github.com/elennatalisilva/criatorio-jzs-cypress-bdd.git](https://github.com/elennatalisilva/criatorio-jzs-cypress-bdd.git)
+   cd criatorio-jzs-cypress-bdd
